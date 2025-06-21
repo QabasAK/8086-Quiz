@@ -36,7 +36,7 @@ QxUserAnswer db 3 dup ( 0 )
 The flowchart illustrates the logical sequence of the quiz program, from user authentication to quiz completion and leaderboard display.
 
  <p align="center">
-   <img src="https://github.com/user-attachments/assets/92b68d91-f4d7-454d-aaa3-64fa2714f5ed" alt="Flowchart" width=60%>
+   <img src="https://github.com/user-attachments/assets/92b68d91-f4d7-454d-aaa3-64fa2714f5ed" alt="Flowchart" width=45%>
  </p>
  
 This project demonstrates the power and complexity of 8086 assembly programming through an interactive quiz game. It integrates low-level concepts like BIOS interrupts, memory management, and timing analysis, making it a valuable educational tool for microprocessor studies.
